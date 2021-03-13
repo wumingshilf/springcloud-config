@@ -24,3 +24,5 @@ eureka:
   instance:
     instance-id: configServer3344 #修改主机服务名称
     prefer-ip-address: true  #修改ip
+    
+    
